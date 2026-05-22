@@ -1,0 +1,756 @@
+[
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.AuthController",
+    "Method": "SignInAsync",
+    "RelativePath": "api/v1/Auth/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Pacagroup.Ecommerce.Application.UseCases.Users.Commands.SignInUser.SignInUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.AuthController",
+    "Method": "SignUpAsync",
+    "RelativePath": "api/v1/Auth/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Pacagroup.Ecommerce.Application.UseCases.Users.Commands.SignUpUser.SignUpUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Customers/Delete/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/v1/Customers/DeleteAsync/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Customers/Get/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Customers/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/v1/Customers/GetAllAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "GetAsync",
+    "RelativePath": "api/v1/Customers/GetAsync/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "Insert",
+    "RelativePath": "api/v1/Customers/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customersDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "InsertAsync",
+    "RelativePath": "api/v1/Customers/InsertAsync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customersDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Customers/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customersDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v1.CustomersController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/v1/Customers/UpdateAsync",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customersDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.AuthController",
+    "Method": "SignInAsync",
+    "RelativePath": "api/v2/Auth/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Pacagroup.Ecommerce.Application.UseCases.Users.Commands.SignInUser.SignInUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.AuthController",
+    "Method": "SignUpAsync",
+    "RelativePath": "api/v2/Auth/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Pacagroup.Ecommerce.Application.UseCases.Users.Commands.SignUpUser.SignUpUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CategoriesController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/v2/Categories/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "Delete",
+    "RelativePath": "api/v2/Customers/Delete/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/v2/Customers/DeleteAsync/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "Get",
+    "RelativePath": "api/v2/Customers/Get/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "GetAll",
+    "RelativePath": "api/v2/Customers/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/v2/Customers/GetAllAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "GetAllWithPagination",
+    "RelativePath": "api/v2/Customers/GetAllWithPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "GetAllWithPaginationAsync",
+    "RelativePath": "api/v2/Customers/GetAllWithPaginationAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "GetAsync",
+    "RelativePath": "api/v2/Customers/GetAsync/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "Insert",
+    "RelativePath": "api/v2/Customers/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customersDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "InsertAsync",
+    "RelativePath": "api/v2/Customers/InsertAsync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customersDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "Update",
+    "RelativePath": "api/v2/Customers/Update/{customerId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "customersDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.CustomersController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/v2/Customers/UpdateAsync/{customerId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "customersDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.DiscountsController",
+    "Method": "Create",
+    "RelativePath": "api/v2/Discounts/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "discountDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.DiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.DiscountsController",
+    "Method": "Delete",
+    "RelativePath": "api/v2/Discounts/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.DiscountsController",
+    "Method": "Get",
+    "RelativePath": "api/v2/Discounts/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.DiscountsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v2/Discounts/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.DiscountsController",
+    "Method": "GetAllWithPagination",
+    "RelativePath": "api/v2/Discounts/GetAllWithPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v2.DiscountsController",
+    "Method": "Update",
+    "RelativePath": "api/v2/Discounts/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "discountDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.DiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.AuthController",
+    "Method": "SignInAsync",
+    "RelativePath": "api/v3/Auth/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Pacagroup.Ecommerce.Application.UseCases.Users.Commands.SignInUser.SignInUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.AuthController",
+    "Method": "SignUpAsync",
+    "RelativePath": "api/v3/Auth/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Pacagroup.Ecommerce.Application.UseCases.Users.Commands.SignUpUser.SignUpUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.CustomersController",
+    "Method": "Delete",
+    "RelativePath": "api/v3/Customers/Delete/{customerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.CustomersController",
+    "Method": "Get",
+    "RelativePath": "api/v3/Customers/Get/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.CustomersController",
+    "Method": "GetAll",
+    "RelativePath": "api/v3/Customers/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.CustomersController",
+    "Method": "GetAllWithPagination",
+    "RelativePath": "api/v3/Customers/GetAllWithPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.CustomersController",
+    "Method": "Insert",
+    "RelativePath": "api/v3/Customers/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Pacagroup.Ecommerce.Application.UseCases.Customers.Commands.CreateCustomerCommand.CreateCustomerCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.CustomersController",
+    "Method": "Update",
+    "RelativePath": "api/v3/Customers/Update/{customerId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "Pacagroup.Ecommerce.Application.UseCases.Customers.Commands.UpdateCustomerCommand.UpdateCustomerCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.DiscountsController",
+    "Method": "Create",
+    "RelativePath": "api/v3/Discounts/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "discountDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.DiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.DiscountsController",
+    "Method": "Delete",
+    "RelativePath": "api/v3/Discounts/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.DiscountsController",
+    "Method": "Get",
+    "RelativePath": "api/v3/Discounts/Get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.DiscountsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v3/Discounts/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.DiscountsController",
+    "Method": "GetAllWithPagination",
+    "RelativePath": "api/v3/Discounts/GetAllWithPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pacagroup.Ecommerce.Services.WebApi.Controllers.v3.DiscountsController",
+    "Method": "Update",
+    "RelativePath": "api/v3/Discounts/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "discountDto",
+        "Type": "Pacagroup.Ecommerce.Application.DTO.DiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,9 @@
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.deps.json
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.csprojAssemblyReference.cache
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Release\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb

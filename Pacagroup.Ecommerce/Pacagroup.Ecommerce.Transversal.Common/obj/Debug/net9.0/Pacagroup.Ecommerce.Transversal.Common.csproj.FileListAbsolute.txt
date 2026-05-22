@@ -1,0 +1,15 @@
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\refint\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\ref\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net9.0\Pacagroup.Ecommerce.Domain.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net9.0\Pacagrou.545D2DAE.Up2Date

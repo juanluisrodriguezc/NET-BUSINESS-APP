@@ -1,0 +1,79 @@
+using Microsoft.AspNetCore.Mvc.Testing;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
+using Pacagroup.Ecommerce.Application.Interface.UseCases;
+
+namespace Pacagroup.Ecommerce.Application.Test
+{
+    [TestClass]
+    public class UsersApplicationTest
+    {
+        private static WebApplicationFactory<Program> _factory = null;
+        private static IServiceScopeFactory _scopeFactory = null;
+
+        [ClassInitialize]
+        public static void ClassInitialize(TestContext _)
+        {
+            _factory = new CustomWebApplicationFactory();
+            _scopeFactory = _factory.Services.GetRequiredService<IServiceScopeFactory>();
+        }
+
+        [TestMethod]
+        public async void Authenticate_CuandoNoSeEnvianParametros_RetornarMensajeErrorValidacion()
+        {
+            using var scope = _scopeFactory.CreateScope();
+            var context = scope.ServiceProvider.GetService<IAuthApplication>();
+
+            // Arrange
+            var email = string.Empty;
+            var password = string.Empty;
+            var expected = "Errores de Validación";
+
+            // Act            
+            var result = await context.SignInAsync(new DTO.SignInDto() { Email = email, Password = password });
+            var actual = result.Message;
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public async void Authenticate_CuandoSeEnvianParametrosCorrectos_RetornarMensajeExito()
+        {
+            using var scope = _scopeFactory.CreateScope();
+            var context = scope.ServiceProvider.GetService<IAuthApplication>();
+
+            // Arrange
+            var email = "alex.espejo.c@gmail.com";
+            var password = "123456";
+            var expected = "Autenticación Exitosa!!!";
+
+            // Act
+            var result = await context.SignInAsync(new DTO.SignInDto() { Email = email, Password = password });
+            var actual = result.Message;
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public async void Authenticate_CuandoSeEnvianParametrosIncorrectos_RetornarMensajeUsuarioNoExiste()
+        {
+            using var scope = _scopeFactory.CreateScope();
+            var context = scope.ServiceProvider.GetService<IAuthApplication>();
+
+            // Arrange
+            var email = "alex.espejo@gmail.com";
+            var password = "123456899";
+            var expected = "Usuario no existe";
+
+            // Act
+            var result = await context.SignInAsync(new DTO.SignInDto() { Email = email, Password = password });
+            var actual = result.Message;
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+    }
+}

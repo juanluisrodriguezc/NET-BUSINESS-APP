@@ -1,0 +1,17 @@
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.deps.json
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Data.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.csproj.AssemblyReference.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.AssemblyInfoInputs.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.AssemblyInfo.cs
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.csproj.CopyComplete
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.pdb

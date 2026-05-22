@@ -1,0 +1,12 @@
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.deps.json
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.AssemblyReference.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.CoreCompileInputs.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\refint\Pacagroup.Ecommerce.Transversal.Logging.dll
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net9.0\ref\Pacagroup.Ecommerce.Transversal.Logging.dll

@@ -1,0 +1,15 @@
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.deps.json
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\bin\Release\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.AssemblyInfoInputs.cache
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.AssemblyInfo.cs
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.csproj.CoreCompileInputs.cache
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.csproj.CopyComplete
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.pdb
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.csproj.AssemblyReference.cache
+D:\Workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Interface\obj\Release\netstandard2.1\Pacagroup.Ecommerce.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig

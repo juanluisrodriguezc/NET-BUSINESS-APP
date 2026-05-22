@@ -1,0 +1,16 @@
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.deps.json
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.AssemblyInfoInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.AssemblyInfo.cs
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.deps.json
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.AssemblyInfoInputs.cache
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.AssemblyInfo.cs
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.csprojAssemblyReference.cache

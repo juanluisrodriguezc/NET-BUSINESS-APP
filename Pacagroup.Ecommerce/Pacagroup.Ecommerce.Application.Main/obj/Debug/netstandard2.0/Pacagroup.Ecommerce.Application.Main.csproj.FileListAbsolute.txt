@@ -1,0 +1,39 @@
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.deps.json
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.csprojAssemblyReference.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.csproj.CoreCompileInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.AssemblyInfoInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.AssemblyInfo.cs
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Interface.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Interface.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.csproj.CopyComplete
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.deps.json
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Interface.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Interface.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Interface.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.csprojAssemblyReference.cache
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.AssemblyInfoInputs.cache
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.AssemblyInfo.cs
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.csproj.CopyComplete
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.dll
+D:\workspace\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.Main.pdb
